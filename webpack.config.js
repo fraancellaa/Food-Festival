@@ -62,6 +62,7 @@ const config = {
     //     destination: path.join("assets", "icons")
     //   }]
     // })
+    // comments
   ],
   mode: 'development'
 };
