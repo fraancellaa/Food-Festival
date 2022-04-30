@@ -15,7 +15,7 @@
   \*********************************/
 /***/ ((module) => {
 
-eval("module.exports = createEl;\n\n//# sourceURL=webpack://food-festival/./assets/js/domMethods.js?");
+eval("// export module\nmodule.exports = createEl;\n\n//# sourceURL=webpack://food-festival/./assets/js/domMethods.js?");
 
 /***/ }),
 
